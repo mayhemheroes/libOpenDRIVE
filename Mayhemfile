@@ -1,0 +1,5 @@
+project: rnshah9/libopendrive
+target: libopendrive
+
+cmds:
+  - cmd: /repo/build/test-xodr @@
