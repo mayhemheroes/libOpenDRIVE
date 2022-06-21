@@ -1,5 +1,5 @@
-project: rnshah9/libopendrive
-target: libopendrive
+project: libopendrive
+target: test-xodr
 
 cmds:
   - cmd: /repo/build/test-xodr @@
