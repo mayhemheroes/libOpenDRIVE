@@ -1,5 +1,5 @@
 project: libopendrive
-target: test-xodr
+target: tests
 
 cmds:
-  - cmd: /repo/build/test-xodr @@
+  - cmd: /repo/build/tests @@
